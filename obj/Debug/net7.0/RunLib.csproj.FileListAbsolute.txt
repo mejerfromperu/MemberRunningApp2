@@ -1,0 +1,11 @@
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\RunLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\RunLib.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\RunLib.AssemblyInfo.cs
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\RunLib.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\RunLib\bin\Debug\net7.0\RunLib.deps.json
+C:\Users\chris\source\repos\RunLib\bin\Debug\net7.0\RunLib.dll
+C:\Users\chris\source\repos\RunLib\bin\Debug\net7.0\RunLib.pdb
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\RunLib.dll
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\refint\RunLib.dll
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\RunLib.pdb
+C:\Users\chris\source\repos\RunLib\obj\Debug\net7.0\ref\RunLib.dll
